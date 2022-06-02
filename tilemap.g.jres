@@ -1,0 +1,31 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxNDAwMTQwMDAxMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDcwMDAwMDAwODA4MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA0MDAwMDAwMDAwODAwMDgwODAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwNDA2MDgwMDAwMDAwODA4MDgwMDAwMDgwODA4MDAwMDA4MDAwMDAwMDQwNjA4MDgwMDAwMDAwMDA4MDAwMDA4MDAwODAwMDAwMDAwMDAwMDA0MDYwMDAwMDAwMDAwMDAwODAwMDAwMDAwMDgwODAwMDgwODAwMDAwNDA2MDAwMDAwMDgwODA4MDgwMDAwMDAwMDAwMDgwODA4MDgwMDAwMDQwNjAwMDAwODA4MDgwMDAwMDAwODA4MDAwMDA4MDgwODA4MDAwMDA0MDYwMDAwMDgwODAwMDAwMDAwMDgwODA4MGEwODA4MDkwODAwMDAwNDA2MDAwMDAwMDgwMDAwMDAwODA4MDgwODA4MDgwMDAwMDgwMDAwMDQwNjAwMDAwMDA4MDgwMDAwMDAwMDAwMDAwODAwMDAwMDA4MDAwMDA0MDYwMDAwMDAwMDA4MDAwMDAwMDAwMDAwMDgwMDAwMDAwODAwMDAwNDA2MDAwODA4MDgwODAwMDAwMDA4MDgwODA4MDAwMDAwMDgwMDAwMDQwNjAwMDgwMDAwMDAwMDAwMDAwMDAwMDgwMDAwMDAwMDA4MDAwMDA0MDYwMDA4MDAwMDAwMDAwODA4MDgwODAwMDAwMDAwMDAwODAwMDAwNDA2MDAwMDAwMDAwODAwMDAwMDAwMDAwMDAwMDAwODA4MDgwMDAwMDQwNjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwODA4MDgwMDAwMDAwMDA0MDYwMDAwMDgwODA4MDgwODA4MDAwMDAwMDgwMDAwMDAwMDAwMDAwNDA2MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA4MDAwMDAwMDAwMDAwMDAwNTAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMDAwMjIyMjIyMjIyMjIyMjIyMjIyMjIwMDIwMDIwMDAwMDAwMDAwMDAyMDAwMDAwMjIyMDAwMDAwMDAwMDIwMjIwMDIwMjIwMDIyMDIyMDAwMjAyMjAyMDAyMDAwMDIwMjAwMDAyMDAyMDAwMDIwMDAwMDIyMjAwMjIwMDIwMDIyMjIwMDAwMjAyMjAyMjAwMjIwMjIwMDIwMDIyMDIyMDIyMDAyMjAwMjAwMjAyMjIwMDIwMjIwMDIwMDAyMDAyMjIyMjIwMDAyMjAwMjAwMjIwMDAwMDAwMjAwMDIyMDAyMDAyMDAwMDAwMDAyMDAwMjIwMDIyMjIyMDAyMDIyMDIwMDAyMjAwMjAyMDAwMDAwMjAwMDAwMDIyMDAyMDIwMDIwMjIwMjAwMDAwMjIwMDIwMDIwMDAwMDAwMDAyMjAyMjAwMjAwMDAwMDAwMDAyMjAyMDAyMDAyMjAyMjIyMDIwMDAyMDAwMDIwMDIwMDAwMDAwMDAwMDIwMDAwMDAyMjIyMjIyMjIyMjIyMjIyMjIwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.darkGroundNorthWest0",
+            "sprites.dungeon.darkGroundNorth",
+            "sprites.dungeon.darkGroundSouth",
+            "sprites.dungeon.darkGroundEast",
+            "sprites.dungeon.darkGroundSouthWest0",
+            "sprites.dungeon.darkGroundWest",
+            "sprites.dungeon.darkGroundNorthEast0",
+            "sprites.dungeon.darkGroundCenter",
+            "sprites.dungeon.chestClosed",
+            "sprites.dungeon.collectibleInsignia"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
