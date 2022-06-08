@@ -161,4 +161,4 @@ scene.setBackgroundImage(img`
 tiles.setCurrentTilemap(tilemap`level1`)
 scene.cameraFollowSprite(Creeper)
 tiles.placeOnRandomTile(Creeper, sprites.castle.tileDarkGrass1)
-info.startCountdown(20)
+info.startCountdown(35)
